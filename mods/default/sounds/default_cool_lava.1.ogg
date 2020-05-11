@@ -1,0 +1,89 @@
+    - CBringYourStuffPlugin::initialize
+    3716  13:16:57:1400029 [L000.109] [T196.781] [196.781] @Checkpoint - PluginManager - Start Pre-initialize plugin
+    3716  13:16:57:1400030 [L000.000] [T196.781] [196.781] @Checkpoint - PluginManager - Stop Pre-initialize plugin
+    3716  13:16:57:1400140 [L000.000] [T196.781] [196.781] @Enter      - CPhotosPlugin::CPhotosPlugin
+    3716  13:16:57:1400142 [L000.000] [T196.781] [196.781] @Enter      - CPhotosPlugin::isClientOnly
+    3716  13:16:57:1409857 [L000.000] [T196.781] [196.781] @Exit       - CPhotosPlugin::isClientOnly
+    3716  13:16:57:1409859 [L000.000] [T196.781] [196.781] @Exit       - CPhotosPlugin::CPhotosPlugin
+    3716  13:16:57:2960143 [L000.156] [T196.937] [196.937] @Enter      - CMessagesPlugin::CMessagesPlugin
+    3716  13:16:57:3120031 [L000.016] [T196.953] [196.953] @Checkpoint - PluginManager - Start Pre-initialize plugin
+    3716  13:16:57:3120032 [L000.000] [T196.953] [196.953] @Checkpoint - PluginManager - Stop Pre-initialize plugin
+    3716  13:16:57:3120145 [L000.000] [T196.953] [196.953] @Enter      - CMessagesPlugin::translate
+    3716  13:16:57:3120146 [L000.000] [T196.953] [196.953] @Enter      - CMessagesPlugin::getPluginId
+    3716  13:16:57:3120147 [L000.000] [T196.953] [196.953] @Enter      - CMessagesPlugin::getPluginCategory
+    3716  13:16:57:3120148 [L000.000] [T196.953] [196.953] @Enter      - CMessagesPlugin::viewIcon
+    3716  13:16:57:3120149 [L000.000] [T196.953] [196.953] @Enter      - CMessagesPlugin::drawBridgeNumber
+    3716  13:16:57:3129850 [L000.000] [T196.953] [196.953] @Exit       - CMessagesPlugin::drawBridgeNumber
+    3716  13:16:57:3129851 [L000.000] [T196.953] [196.953] @Exit       - CMessagesPlugin::viewIcon
+    3716  13:16:57:3129852 [L000.000] [T196.953] [196.953] @Exit       - CMessagesPlugin::getPluginCategory
+    3716  13:16:57:3129853 [L000.000] [T196.953] [196.953] @Exit       - CMessagesPlugin::getPluginId
+    3716  13:16:57:3129854 [L000.000] [T196.953] [196.953] @Exit       - CMessagesPlugin::translate
+    3716  13:16:57:3129856 [L000.000] [T196.953] [196.953] @Exit       - CMessagesPlugin::CMessagesPlugin
+    3716  13:16:58:2340033 [L000.922] [T197.875] [197.875] @Checkpoint - PluginManager - Start Pre-initialize plugin
+    3716  13:16:58:2340034 [L000.000] [T197.875] [197.875] @Checkpoint - PluginManager - Stop Pre-initialize plugin
+    3716  13:16:58:2340150 [L000.000] [T197.875] [197.875] @Enter      - CApolloPlugin::getPluginCategory
+    3716  13:16:58:2349849 [L000.000] [T197.875] [197.875] @Exit       - CApolloPlugin::getPluginCategory
+    3716  13:16:58:2650151 [L000.031] [T197.906] [197.906] @Enter      - CDashboard::onRecommendationsUpdated
+    3716  13:16:58:2659848 [L000.000] [T197.906] [197.906] @Exit       - CDashboard::onRecommendationsUpdated
+    3716  13:16:58:3120035 [L000.047] [T197.953] [197.953] @Checkpoint - PluginManager - Start Pre-initialize plugin
+    3716  13:16:58:3120036 [L000.000] [T197.953] [197.953] @Checkpoint - PluginManager - Stop Pre-initialize plugin
+    3716  13:16:58:3120152 [L000.000] [T197.953] [197.953] @Enter      - CStorePlugin::getPluginCategory
+    3716  13:16:58:3129847 [L000.000] [T197.953] [197.953] @Exit       - CStorePlugin::getPluginCategory
+    3716  13:16:58:4060037 [L000.094] [T198.047] [198.047] @Checkpoint - PluginManager - Start Pre-initialize plugin
+    3716  13:16:58:4060038 [L000.000] [T198.047] [198.047] @Checkpoint - PluginManager - Stop Pre-initialize plugin
+    3716  13:16:58:4060153 [L000.000] [T198.047] [198.047] @Enter      - CMapsPlugin::getPluginId
+    3716  13:16:58:4060154 [L000.000] [T198.047] [198.047] @Enter      - CMapsPlugin::getPluginCategory
+    3716  13:16:58:4060155 [L000.000] [T198.047] [198.047] @Enter      - CMapsPlugin::setApiFactory
+    3716  13:16:58:4060156 [L000.000] [T198.047] [198.047] @Enter      - CMapsPlugin::isClientOnly
+    3716  13:16:58:4060157 [L000.000] [T198.047] [198.047] @Enter      - CMapsPlugin::getImplementedApis
+    3716  13:16:58:4060158 [L000.000] [T198.047] [198.047] @Enter      - CMapsPlugin::setLanguage
+    3716  13:16:58:4060159 [L000.000] [T198.047] [198.047] @Enter      - CMapsPlugin::initializePluginResources
+    3716  13:16:58:4069840 [L000.000] [T198.047] [198.047] @Exit       - CMapsPlugin::initializePluginResources
+    3716  13:16:58:4069841 [L000.000] [T198.047] [198.047] @Exit       - CMapsPlugin::setLanguage
+    3716  13:16:58:4069842 [L000.000] [T198.047] [198.047] @Exit       - CMapsPlugin::getImplementedApis
+    3716  13:16:58:4069843 [L000.000] [T198.047] [198.047] @Exit       - CMapsPlugin::isClientOnly
+    3716  13:16:58:4069844 [L000.000] [T198.047] [198.047] @Exit       - CMapsPlugin::setApiFactory
+    3716  13:16:58:4069845 [L000.000] [T198.047] [198.047] @Exit       - CMapsPlugin::getPluginCategory
+    3716  13:16:58:4069846 [L000.000] [T198.047] [198.047] @Exit       - CMapsPlugin::getPluginId
+    3716  13:16:58:4210160 [L000.015] [T198.062] [198.062] @Enter      - CMapsPlugin::viewIcon
+    3716  13:16:58:4210161 [L000.000] [T198.062] [198.062] @Enter      - CMapsPlugin::labelText
+    3716  13:16:58:4210162 [L000.000] [T198.062] [198.062] @Enter      - CMapsPlugin::getHomeSourceFactory
+    3716  13:16:58:4219837 [L000.000] [T198.062] [198.062] @Exit       - CMapsPlugin::getHomeSourceFactory
+    3716  13:16:58:4219838 [L000.000] [T198.062] [198.062] @Exit       - CMapsPlugin::labelText
+    3716  13:16:58:4219839 [L000.000] [T198.062] [198.062] @Exit       - CMapsPlugin::viewIcon
+    3716  13:16:59:0780163 [L000.657] [T198.719] [198.719] @Enter      - CSoftwareUpdaterPlugin::CSoftwareUpdaterPlugin
+    3716  13:16:59:0789836 [L000.000] [T198.719] [198.719] @Exit       - CSoftwareUpdaterPlugin::CSoftwareUpdaterPlugin
+    3716  13:16:59:0930039 [L000.015] [T198.734] [198.734] @Checkpoint - PluginManager - Start Pre-initialize plugin
+    3716  13:16:59:0930040 [L000.000] [T198.734] [198.734] @Checkpoint - PluginManager - Stop Pre-initialize plugin
+    3716  13:16:59:0930165 [L000.000] [T198.734] [198.734] @Enter      - CSoftwareUpdaterPlugin::viewIcon
+    3716  13:16:59:1090041 [L000.016] [T198.750] [198.750] @Checkpoint - PluginManager - Start Loading Plugins
+    3716  13:16:59:1090166 [L000.000] [T198.750] [198.750] @Enter      - CPluginManager::loadPlugins
+    3716  13:16:59:1099834 [L000.000] [T198.750] [198.750] @Exit       - CSoftwareUpdaterPlugin::viewIcon
+    3716  13:16:59:1400042 [L000.031] [T198.781] [198.781] @Checkpoint - PluginManager - Start Pre-initialize plugin
+    3716  13:16:59:1400043 [L000.000] [T198.781] [198.781] @Checkpoint - PluginManager - Stop Pre-initialize plugin
+    3716  13:16:59:1400167 [L000.000] [T198.781] [198.781] @Enter      - CApplicationInstaller::CApplicationInstaller
+    3716  13:16:59:1409832 [L000.000] [T198.781] [198.781] @Exit       - CApplicationInstaller::CApplicationInstaller
+    3716  13:16:59:2650044 [L000.125] [T198.906] [198.906] @Checkpoint - PluginManager - Start Pre-initialize plugin
+    3716  13:16:59:2650045 [L000.000] [T198.906] [198.906] @Checkpoint - PluginManager - Stop Pre-initialize plugin
+    3716  13:16:59:2650169 [L000.000] [T198.906] [198.906] @Enter      - BackupPlugin::BackupPlugin
+    3716  13:16:59:2650171 [L000.000] [T198.906] [198.906] @Enter      - BackupPlugin::isClientOnly
+    3716  13:16:59:2650172 [L000.000] [T198.906] [198.906] @Enter      - BackupPlugin::getImplementedApis
+    3716  13:16:59:2659827 [L000.000] [T198.906] [198.906] @Exit       - BackupPlugin::getImplementedApis
+    3716  13:16:59:2659828 [L000.000] [T198.906] [198.906] @Exit       - BackupPlugin::isClientOnly
+    3716  13:16:59:2659830 [L000.000] [T198.906] [198.906] @Exit       - BackupPlugin::BackupPlugin
+    3716  13:16:59:3900046 [L000.125] [T199.031] [199.031] @Checkpoint - PluginManager - Start Pre-initialize plugin
+    3716  13:16:59:3900047 [L000.000] [T199.031] [199.031] @Checkpoint - PluginManager - Stop Pre-initialize plugin
+    3716  13:16:59:3900173 [L000.000] [T199.031] [199.031] @Enter      - CCareSuitePlugin::getPluginCategory
+    3716  13:16:59:3909826 [L000.000] [T199.031] [199.031] @Exit       - CCareSuitePlugin::getPluginCategory
+    3716  13:16:59:4210048 [L000.031] [T199.062] [199.062] @Checkpoint - PluginManager - Start Pre-initialize plugin
+    3716  13:16:59:4210049 [L000.000] [T199.062] [199.062] @Checkpoint - PluginManager - Stop Pre-initialize plugin
+    3716  13:16:59:4210174 [L000.000] [T199.062] [199.062] @Enter      - CCustomerFeedbackPlugin::CCustomerFeedbackPlugin
+    3716  13:16:59:4210176 [L000.000] [T199.062] [199.062] @Enter      - CCustomerFeedbackPlugin::setLanguage
+    3716  13:16:59:4219823 [L000.000] [T199.062] [199.062] @Exit       - CCustomerFeedbackPlugin::setLanguage
+    3716  13:16:59:4219825 [L000.000] [T199.062] [199.062] @Exit       - CCustomerFeedbackPlugin::CCustomerFeedbackPlugin
+    3716  13:17:00:3590050 [L000.938] [T200.000] [200.000] @Checkpoint - PluginManager - Start Pre-initialize plugin
+    3716  13:17:00:3590051 [L000.000] [T200.000] [200.000] @Checkpoint - PluginManager - Stop Pre-initialize plugin
+    3716  13:17:00:3590177 [L000.000] [T200.000] [200.000] @Enter      - CWindowsLivePlugin::getPluginCategory
+    3716  13:17:00:3590178 [L000.000] [T200.000] [200.000] @Enter      - CWindowsLivePlugin::setMainFrameInterface
+    3716  13:17:00:3599821 [L000.000] [T200.000] [200.000] @Exit       - CWindowsLivePlugin::setMainFrameInterface
+    3716  13:17:00:3599822 [L000.000]
